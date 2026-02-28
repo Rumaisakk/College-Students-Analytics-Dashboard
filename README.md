@@ -24,3 +24,7 @@ This Power BI project analyzes student distribution across 285 colleges and 150 
 
 ## 🛠 Tools Used
 Power BI | Power Query | DAX | Data Modeling
+
+## 📷 Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
