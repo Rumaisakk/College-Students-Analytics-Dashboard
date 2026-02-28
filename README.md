@@ -27,4 +27,4 @@ Power BI | Power Query | DAX | Data Modeling
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Final.png)
